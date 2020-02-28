@@ -10,8 +10,8 @@
 | Coletados de Rede (Portas/serviços, topologia) | Nome: ProFTPD, Versao: 1.3.5 | telnet 192.168.50.67 \\21 | 
 | Coletados de aplicação (SO, versões de serviços..) | SO: Linux, Versao: entre 3.2 e 4.8 (O comando nao deu as informacoes corretas) | sudo nmap -sV -O 192.168.50.67
 
-| Outros |
-| -------------------------- |
-| Vulnerabilidades | 
-| Exploração |
-| Outras informações úteis |
+| Outros | |
+| -------------------------- | ------ |
+| Vulnerabilidades | Alto :  	Dir. Trav. ;  Medio: DoS Exec, Code, Overflow, Bypass, Sql Bypass | 
+| Exploração | |
+| Outras informações úteis | |
