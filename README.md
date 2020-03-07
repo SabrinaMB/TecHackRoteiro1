@@ -23,3 +23,11 @@
 | MYHUMPS-PC | 192.168.204.137 | Vmware_9d:b8:6d (00:0c:29:9d:b8:6d) |
 | WORKSTATION6 | 192.168.204.146 | Vmware_fc:bc:2e (00:0c:29:fc:bc:2e) |
 | ROCKETMAN-PC | 192.168.204.139 | Vmware_61:c1:89 (00:0c:29:61:c1:89) |
+
+IP do host com a conexao maliciosa: 192.168.204.137 <br />
+Dominio do site comprometido: epzqy.iphaeba.eu:22780 <br />
+URL que agiu como redirecionamento: http://www.theopen.be/images/2011_charte_08.jpg <br />
+Endereco IP da URL de redirecionamento: 213.186.33.19 <br />
+
+
+
