@@ -26,8 +26,7 @@
 
 IP do host com a conexao maliciosa: 192.168.204.137 <br />
 Dominio do site comprometido: epzqy.iphaeba.eu:22780 <br />
-URL que agiu como redirecionamento: http://www.theopen.be/images/2011_charte_08.jpg <br />
-Endereco IP da URL de redirecionamento: 213.186.33.19 <br />
-
+URL que agiu como redirecionamento: www.adobe.com/images/shared/download_buttons/get_flash_player.gif <br />
+Endereco IP da URL de redirecionamento: 212.152.163.10 <br />
 
 
