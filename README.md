@@ -1,5 +1,5 @@
 # TecHackRoteiro1
-
+## 1.1
 | Diario de bordo | |
 | -------------------------- | -------------------------- |
 | Data: | 27/02/2020 | 
@@ -15,3 +15,11 @@
 | Vulnerabilidades | Alto :  	Dir. Trav. ;  Medio: DoS Exec, Code, Overflow, Bypass, Sql Bypass | 
 | Exploração | |
 | Outras informações úteis | |
+
+## 1.2
+
+| HOSTNAME | REQUESTED IP ADDRESS | MAC ADDRESS |
+| -------------------------- | -------------------------- | -------------------------- |
+| MYHUMPS-PC | 192.168.204.137 | Vmware_9d:b8:6d (00:0c:29:9d:b8:6d) |
+| WORKSTATION6 | 192.168.204.146 | Vmware_fc:bc:2e (00:0c:29:fc:bc:2e) |
+| ROCKETMAN-PC | 192.168.204.139 | Vmware_61:c1:89 (00:0c:29:61:c1:89) |
